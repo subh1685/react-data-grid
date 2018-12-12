@@ -1,5 +1,10 @@
 {"nodes":[
-  {"x":80, "rx":25,"ry":"15", "label":"Count 1"}, 
+  {"x":80, "rx":25,"ry":"15", "label":"Count 6"}, 
   {"x":180, "rx":25,"ry":"15","label":"Count 2"}, 
-  {"x":280, "rx":25,"ry":"15","label":"Count 3"}
+  {"x":280, "rx":25,"ry":"15","label":"Count 3"},
+  {"x":380, "rx":25,"ry":"15","label":"Count 5"},
+  {"x":480, "rx":25,"ry":"15","label":"Count 1"},
+  {"x":580, "rx":25,"ry":"15","label":"Count 19"},
+  {"x":680, "rx":25,"ry":"15","label":"Count 3"},
+  {"x":780, "rx":25,"ry":"15","label":"Count 30"}
 ]} 
