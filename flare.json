@@ -1,0 +1,101 @@
+{
+ "name": "Microland",
+ "children": [
+  {
+   "name": "Automation",
+   "children": [
+    {
+     "name": "Laptop",
+     "children": [
+      {"name": "LTP-O-100613", "size": 3938},
+      {"name": "LTP-O-100613", "size": 3812},
+      {"name": "LTP-O-100613", "size": 6714},
+      {"name": "LTP-O-100613", "size": 743}
+     ]
+    },
+    {
+     "name": "Desktop",
+     "children": [
+      {"name": "DS-O-100611", "size": 3534},
+      {"name": "DS-O-100616", "size": 5731},
+      {"name": "DS-O-100614", "size": 7840},
+      {"name": "DS-O-100613", "size": 5914},
+      {"name": "DS-O-100615", "size": 3416}
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Finance",
+   "children": [
+    {
+     "name": "Laptop",
+     "children": [
+      {"name": "LTP-O-100613", "size": 3938},
+      {"name": "LTP-O-100613", "size": 3812},
+      {"name": "LTP-O-100613", "size": 6714},
+      {"name": "LTP-O-100613", "size": 743}
+     ]
+    },
+    {
+     "name": "Desktop",
+     "children": [
+      {"name": "DS-O-100611", "size": 3534},
+      {"name": "DS-O-100616", "size": 5731},
+      {"name": "DS-O-100614", "size": 7840},
+      {"name": "DS-O-100613", "size": 5914},
+      {"name": "DS-O-100615", "size": 3416}
+     ]
+    }
+   ]
+  },
+  {
+   "name": "CIS",
+   "children": [
+    {
+     "name": "Laptop",
+     "children": [
+      {"name": "LTP-O-100613", "size": 3938},
+      {"name": "LTP-O-100613", "size": 3812},
+      {"name": "LTP-O-100613", "size": 6714},
+      {"name": "LTP-O-100613", "size": 743}
+     ]
+    },
+    {
+     "name": "Desktop",
+     "children": [
+      {"name": "DS-O-100611", "size": 3534},
+      {"name": "DS-O-100616", "size": 5731},
+      {"name": "DS-O-100614", "size": 7840},
+      {"name": "DS-O-100613", "size": 5914},
+      {"name": "DS-O-100615", "size": 3416}
+     ]
+    }
+   ]
+  },
+  {
+   "name": "L&D",
+   "children": [
+    {
+     "name": "Laptop",
+     "children": [
+      {"name": "LTP-O-100613", "size": 3938},
+      {"name": "LTP-O-100613", "size": 3812},
+      {"name": "LTP-O-100613", "size": 6714},
+      {"name": "LTP-O-100613", "size": 743}
+     ]
+    },
+    {
+     "name": "Desktop",
+     "children": [
+      {"name": "DS-O-100611", "size": 3534},
+      {"name": "DS-O-100616", "size": 5731},
+      {"name": "DS-O-100614", "size": 7840},
+      {"name": "DS-O-100613", "size": 5914},
+      {"name": "DS-O-100615", "size": 3416}
+     ]
+    }
+   ]
+  }
+ ]
+}
